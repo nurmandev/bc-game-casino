@@ -98,5 +98,3 @@ Build the next big thing in online gambling. The BC-Game Casino Script is your a
 > Contact me on telegram https://t.me/Proficientng, or to discuss custom features, branding, or integrations.
 
 ---
-
-### 📂 Project Structure
