@@ -1,4 +1,7 @@
-# BC-Game Casino Script
+# BC-Game Casino Script contact me on **[Telegram](https://t.me/Proficientng)**
+
+
+![Home Page](./image.png)
 
 **Launch a powerful crypto casino platform inspired by BC-Game.**  
 The BC-Game Casino Script provides everything you need to create a modern, feature-rich online gambling platform with crypto support. Whether you’re an experienced operator or just entering the iGaming space, this script gives you the competitive edge to build, scale, and dominate in the crypto casino market.
@@ -94,7 +97,9 @@ Boost engagement and reward loyal users with:
 
 Build the next big thing in online gambling. The BC-Game Casino Script is your all-in-one solution to launch and manage a high-performing crypto casino.
 
-> **💡 Ready to launch?**  
-> Contact me on telegram https://t.me/Proficientng, or to discuss custom features, branding, or integrations.
+
+## 📞 Get Started
+
+Ready to launch your casino? Contact us to request a **[proficient](https://t.me/Proficientng)**, or to discuss **custom features, branding, or integrations**.
 
 ---
