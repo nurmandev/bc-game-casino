@@ -12,6 +12,8 @@ export default {
       lg: "993px",
       xl: "1250px",
       "2xl": "1550px"
+
+      
     },
     extend: {
       colors: {
